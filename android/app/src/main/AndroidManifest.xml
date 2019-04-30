@@ -12,7 +12,7 @@
         android:label="locator"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyCPIIJGlQOnLed46RnaKpU8SbZDVxn0koM"/>
+               android:value="AIzaSyDZjNbaS5r2O9QegMZt1peg4TjIbr7FYXY"/>
         <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
         <activity
             android:name=".MainActivity"

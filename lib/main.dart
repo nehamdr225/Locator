@@ -1,31 +1,9 @@
 
-// import 'package:flutter/material.dart';
-
-// void main() => runApp(MyApp());
-
-// class MyApp extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       title: 'Locator',
-//       home: Scaffold(
-//         appBar: AppBar(
-//           title: Text('Locator'),
-//         ),
-//         body: Center(
-//           child: Text('Hello Locator'),
-//         ),
-//       ),
-//     );
-//   }
-// }
 
 import 'dart:async';
-
 // import 'package:location/location.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-
 // var location = new Location();
 
 void main() => runApp(MyApp());
